@@ -1,1 +1,11 @@
-{}
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/Stiri/route": "app/api/Stiri/route.js",
+  "/api/company-info/route": "app/api/company-info/route.js",
+  "/api/get-contract/route": "app/api/get-contract/route.js",
+  "/page": "app/page.js",
+  "/api/generate-contract/route": "app/api/generate-contract/route.js",
+  "/api/sign-contract/route": "app/api/sign-contract/route.js",
+  "/semneaza/[token]/page": "app/semneaza/[token]/page.js",
+  "/legal/page": "app/legal/page.js"
+}
